@@ -17,6 +17,11 @@ This project analyzes employee data using MySQL to identify workforce trends, em
 - SQL
 
 ## Dataset
+This project uses the IBM HR Analytics Employee Attrition & Performance dataset.
+
+**Dataset Source:** https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+Download the dataset from the link above and import the CSV file into MySQL Workbench. Make sure the imported table is named `employees` and the column names match the SQL queries.
 The project uses the IBM HR Analytics Employee Attrition dataset.
 
 The dataset contains employee information such as age, gender, department, job role, monthly income, overtime status, and attrition status.
